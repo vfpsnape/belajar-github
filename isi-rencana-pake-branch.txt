@@ -3,10 +3,11 @@ coba branch
   - satu satu satu
   - satu satu empat
   - satu satu lima
+  - satu satu enam
 - dua dua
   - dua dua satu
-  - dua dua dua
   - dua dua tiga
+  - dua dua empat
  - tiga tiga
   - tiga tiga satu
   - tiga tiga dua
